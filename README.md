@@ -2,10 +2,10 @@
 
 ![horizontal-slitscan)](https://user-images.githubusercontent.com/90220317/173256332-7b92618e-16b5-4b36-878f-5573044bc852.png)
 
-SlitScan are imaging techniques are used to create static images of time-based phenomena. In traditional film photography, 
-slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, thin slices are extracted 
-from a sequence of video frames, and concatenated into the creation of a new image.
-Granulation of a 3D printer's operating sound is influenced by the pixel colours at the current scan point.
+SlitScan are imaging techniques  used to create static images of time-based phenomena. In traditional film photography, 
+slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, a thin slice of pixels is  extracted 
+from a sequence of video frames, and concatenated into the creation of a new image; moving th line from leaft to right and not re-drwing the background. So, the line of pixeles leaces a trace of the time in the soace of the frame.
+The sound processing is a granulation of a 3D printer's operating sound that is influenced by the pixel colours at the current scan point from the video input.
 
 *Concept and programming: Marlon Barrios Solano*
 
@@ -42,9 +42,7 @@ Thre may be some compensation via MotionDAO.
 ## Soft Spaces:
 
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
-it helps us to rediscover the affordances of movement and perception augmented by computational systems and strategies. The space of
-the frame is choreographed and remapped in coupling with user/performer. Soft Spaces represent the cognitive continuity of software, 
-interface and embodiment. They are invitations to create and compose. How do they soaces make you move?" 
+they helps us to rediscover the affordances of movement and perception augmented by computational systems and algorithmic compositional strategies. The space of the frame is choreographed and remapped in coupling with the camera of user/performer. Soft Spaces represent the cognitive continuity of software creation,  interface design and embodiment. They conceived as invitations are invitations to create and compose in front of the computer. How do they  make you move?" 
 
 Created for MotionDAO experiments in NFTs that invite to move.
 
