@@ -38,10 +38,9 @@ If you make a recording please share it with me at  marlon@dance-tech.net
 Thre may be some compensation via MotionDAO.
 
 
-
 ## Soft Spaces:
 
-It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
+It is a series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
 they helps us to rediscover the affordances of movement and perception augmented by computational systems and algorithmic compositional strategies. The space of the frame is choreographed and remapped in coupling with the camera of user/performer. Soft Spaces represent the cognitive continuity of software creation,  interface design and embodiment. They conceived as invitations are invitations to create and compose in front of the computer. How do they  make you move?" 
 
 Created for MotionDAO experiments in NFTs that invite to move.
