@@ -4,7 +4,7 @@
 
 SlitScan are imaging techniques  used to create static images of time-based phenomena. In traditional film photography, 
 slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, a thin slice of pixels is  extracted 
-from a sequence of video frames, and concatenated into the creation of a new image; moving th line from leaft to right and not re-drwing the background. So, the line of pixeles leaces a trace of the time in the soace of the frame.
+from a sequence of video frames, and concatenated into the creation of a new image; moving the line from left to right and not re-drawing the background. So, the line of pixels leaves a trace of the 'time' in the space of the frame.
 The sound processing is a granulation of a 3D printer's operating sound that is influenced by the pixel colours at the current scan point from the video input.
 
 *Concept and programming: Marlon Barrios Solano*
