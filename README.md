@@ -2,11 +2,10 @@
 
 ![horizontal-slitscan)](https://user-images.githubusercontent.com/90220317/173256332-7b92618e-16b5-4b36-878f-5573044bc852.png)
 
-In short, everything whatsoever that exists in the whole universe is a series of
+>"In short, everything whatsoever that exists in the whole universe is a series of
 instances of time. Since everything is for the time being, we too are for the time
-being.
-
-Dogen
+being."
+>Dogen
 
 SlitScan are imaging techniques  used to create static images of time-based phenomena. In traditional film photography, 
 slit scan images are created by exposing film as it slides past a slit-shaped aperture. In the digital realm, a thin slice of pixels is  extracted 
