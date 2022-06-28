@@ -38,13 +38,6 @@ It works better in Chrome and Brave.
 
 
 
-*INVITATION TO DANCERS AND MOVERS:*
-
-I would love to create a collection of performances within these software spaces for an online exhibition.
-If you make a recording please share it with me at  marlon@dance-tech.net
-Thre may be some compensation via MotionDAO.
-
-
 ## Soft Spaces:
 
 It is a series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
@@ -53,6 +46,4 @@ they helps us to rediscover the affordances of movement and perception augmented
 Created for MotionDAO experiments in NFTs that invite to move.
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
-
-
 
